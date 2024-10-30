@@ -1,5 +1,8 @@
 <?php 
-    
+ //ini commit pertama saya
+ //Aulia Ulul Azmi
+ 
+
 // pilihan nilai input
 echo "[1] operator rata-rata";
 echo "<br>[2] operator penjumlahan";
